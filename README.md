@@ -1,0 +1,3 @@
+## Scenario
+
+- Little Lemon wants to have the ability to store information regarding a customer’s tip, or gratuity, preference on the device in persistent storage. Their app can write and read data from the shared preferences correctly so that they remember user preferences. You’ve been asked to implement code that writes and reads the contents of shared preferences and presents it on the screen. To practice writing and reading data from shared preferences you will create and use local shared preferences storage. When a user clicks on the switch button you will save data to shared preferences. At app launch, you will read this data and present it on the screen. This will help you reassure Little Lemon that they have the capability to store local data. 
